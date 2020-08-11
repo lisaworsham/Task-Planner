@@ -7,6 +7,8 @@ The purpose of this homework was to create a work day planner to help plan what 
 
 ```
 Used Visual Studio Code and chrome's inspector tool to help build and rework code. There was a framework provided with HTML and Styling already set.
+
+https://lisaworsham.github.io/homeworkPlanner/
 ```
 
 ## Process/What was Changed
